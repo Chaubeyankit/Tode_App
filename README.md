@@ -47,5 +47,5 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Chaubeyankit/Todo-List/assets/90557067/a7fb84e3-a7e4-4225-8d9f-ac41cd91ac53)
+![JWT](https://github.com/Chaubeyankit/Tode_App/assets/90557067/953c341f-4219-4c0f-9478-56a0145ec081)
 
