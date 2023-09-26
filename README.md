@@ -23,7 +23,7 @@ The following software is required to be installed on your system:
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  https://github.com/Chaubeyankit/Tode_App.git
 ```
 
 Go to the project directory
