@@ -30,6 +30,12 @@ Go to the project directory
 
 ```bash
   cd Tode_App
+  npm i
+  cd server
+  npm i
+
+  cd .. (that mean come back to root folder from "server" folder
+
 ```
 
 Install dependencies
@@ -46,7 +52,7 @@ Start the server
 
 
 ## Screenshots
-**authentication flow*
+*authentication flow*
 
 ![JWT](https://github.com/Chaubeyankit/Tode_App/assets/90557067/953c341f-4219-4c0f-9478-56a0145ec081)
 
