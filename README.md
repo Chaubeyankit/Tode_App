@@ -17,6 +17,10 @@ The following software is required to be installed on your system:
 
 **Database** MongoDb
 
+## Running Tests
+```bash
+    http://yourtodolistapp.netlify.app
+```
 
 ## Run Locally
 
