@@ -1,5 +1,9 @@
+const dotenv = require('dotenv');
+dotenv.config({path:'./config.env'});
+
 const mongoose = require('mongoose');
-const mongoURL = "mongodb://localhost:27017/i-notebook";
+const mongoURL = process.env.MONGO_URI
+
 const connectToMongo = () => {
       mongoose.connect(mongoURL, () => {
             console.log("Connectd to db")
